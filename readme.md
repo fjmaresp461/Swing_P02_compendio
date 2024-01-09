@@ -14,7 +14,7 @@ Esta aplicación se ejecuta desde el archivo `.jar`
 
 ### Construido
 
-Eclipse.
+Proyecyo realizado con  el IDE Eclipse.
 
 ### Versión
 
